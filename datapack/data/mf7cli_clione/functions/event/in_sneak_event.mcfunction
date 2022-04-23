@@ -1,0 +1,1 @@
+scoreboard players set @a[scores={clione_sneak=51..}] clione_sneak 0

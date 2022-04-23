@@ -1,0 +1,1 @@
+tellraw @s ["",{"text": "Clione by mf7cli.\n","color": "#86dfff"},{"text": "GitHubリポジトリ","clickEvent": {"action": "open_url","value": "https://github.com/mf-3d/clione"}},{"text":"\n"},{"text":"作者のTwitter","clickEvent": {"action":"open_url","value": "https://twitter.com/made_in_apple_"}}]

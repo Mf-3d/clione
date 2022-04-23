@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlock": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mf7cli_clione:clione_spawn_egg"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mf7cli_clione:craft/clione_spawn_egg"
+    }
+}

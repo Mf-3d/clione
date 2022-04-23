@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'[{\"text\":\"Clione spawn egg\",\"color\":\"aqua\",\"italic\":false}]'},CustomModelData:1,mf7cli_item_id:1}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

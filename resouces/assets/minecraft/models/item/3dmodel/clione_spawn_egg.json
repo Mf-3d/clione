@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "clione_spawn_egg",
+	"textures": {
+		"0": "custom_items/clione_spawn_egg",
+		"particle": "custom_items/clione_spawn_egg"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 4],
+			"to": [8, 4, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0.5, 0.5, 0.5]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 4], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 4], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#0"},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [3.5, 5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}
