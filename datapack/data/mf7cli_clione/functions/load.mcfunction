@@ -1,4 +1,4 @@
-# ここからはわからない人はあまり触らないほうがいい
+# 意味が分からん人はあまり触らないほうがいい
 # スニークの時間
 scoreboard objectives add clione_sneak minecraft.custom:minecraft.sneak_time
 

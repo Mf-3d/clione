@@ -1,3 +1,5 @@
+# こいつ実行されてなくね？
+
 # イベント
 # 乱数を生成
 execute as @s run function mf7cli_common:random
