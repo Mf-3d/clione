@@ -7,7 +7,7 @@ summon area_effect_cloud ~ ~ ~ {Tags:["RNG"]}
 
 # 召喚したAECのUUIDを取得
 execute store result score @e[type=armor_stand, tag=clione_stand, limit=1] clione_id run data get entity @e[tag=RNG,distance=..0.01,limit=1] UUID[0]
-execute store result score @e[type=armor_stand, tag=clione_core, limit=1] clione_id run data get entity @e[type=armor_stand, tag=clione_stand, limit=1] clione_id
+execute store result score @e[type=armor_stand, tag=clione_core, limit=1] clione_id run scoreboard players get @e[type=armor_stand, tag=clione_stand, limit=1] clione_id
 
 # 1tick内に同じ人が複数回乱数生成をするとき (3コマンド→4コマンド)
 # kill @e[tag=RNG,distance=..0.01,limit=1]
