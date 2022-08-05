@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "clione",
 	"textures": {
-		"0": "custom_mobs/clione",
-		"particle": "custom_mobs/clione"
+		"0": "custom_mobs/clione_1",
+		"particle": "custom_mobs/clione_1"
 	},
 	"elements": [
 		{
